@@ -138,7 +138,7 @@ async def start():
 
 if __name__ == "__main__":
     delay = 1
-    token = "MTI0Mjk0MDc4NzAwNDgwMTA5Nw.G_m-xw.N01aEJo-56jRvGzy-LlnfJzdkfrtSus9UNJUEw" 
+    token = "" 
 
     if not token:
         colors.error("Token is missing. Please set the token.")
